@@ -1,8 +1,12 @@
+
+
+
+
 # 🎮 Simon Says Game
 
 A browser-based **Simon Says** memory game built with vanilla JavaScript, HTML, and CSS. The game generates a growing sequence of colored button flashes — your job is to remember and repeat it correctly.
 
-> 🎓 Built as part of the **Sigma Web Development Course** by [Apna College](https://www.apnacollege.in/).
+> 🎓 Built as part of the **Sigma 7.0 Course** by [Apna College](https://www.apnacollege.in/).
 
 ---
 
